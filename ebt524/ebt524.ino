@@ -1,4 +1,4 @@
-//EBT524 - PROJE
+//EBT524 -  PROJE
 #include "FirebaseESP8266.h"
 #include <ESP8266WiFi.h>
 #define FIREBASE_HOST "https://mogakap-aa4ee-default-rtdb.firebaseio.com"
